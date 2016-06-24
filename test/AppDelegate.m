@@ -13,6 +13,7 @@
     
     
     NSInteger num;
+    NSString *name;
     
 }
 
